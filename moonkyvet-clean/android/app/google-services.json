@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67832849622",
+    "project_id": "moonkyvet-88de4",
+    "storage_bucket": "moonkyvet-88de4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67832849622:android:6a42e29cc818fddbb3d577",
+        "android_client_info": {
+          "package_name": "com.moonkyvet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67832849622-fejqiej0rk1kndibtgbqfm6rrp6dtv7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwyfpu45-HZvH760zL7xShi3Rrh_EA5As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67832849622-fejqiej0rk1kndibtgbqfm6rrp6dtv7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
